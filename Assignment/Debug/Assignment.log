@@ -1,0 +1,103 @@
+﻿  pch.cpp
+  Assignment.cpp
+c:\users\koulo\source\repos\assignment\assignment\image.h(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\assignment.cpp(29): warning C4101: 'N': unreferenced local variable
+c:\users\koulo\source\repos\assignment\assignment\array.h(235): warning C4018: '<': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  c:\users\koulo\source\repos\assignment\assignment\image.h(17): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\koulo\source\repos\assignment\assignment\array.h(254): warning C4018: '<': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(250): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\assignment.cpp(100): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+c:\users\koulo\source\repos\assignment\assignment\array.h(199): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(195): note: while compiling class template member function 'void math::Array<math::Vec3<float>>::setData(const T *&)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(226): note: see reference to function template instantiation 'void math::Array<math::Vec3<float>>::setData(const T *&)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  Filter.cpp
+c:\users\koulo\source\repos\assignment\assignment\image.h(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\array.h(235): warning C4018: '<': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  c:\users\koulo\source\repos\assignment\assignment\image.h(17): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\koulo\source\repos\assignment\assignment\array.h(199): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(195): note: while compiling class template member function 'void math::Array<math::Vec3<float>>::setData(const T *&)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(226): note: see reference to function template instantiation 'void math::Array<math::Vec3<float>>::setData(const T *&)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  FilterGamma.cpp
+c:\users\koulo\source\repos\assignment\assignment\image.h(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\filtergamma.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\filtergamma.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\array.h(235): warning C4018: '<': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  c:\users\koulo\source\repos\assignment\assignment\image.h(17): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\koulo\source\repos\assignment\assignment\array.h(199): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(195): note: while compiling class template member function 'void math::Array<math::Vec3<float>>::setData(const T *&)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(226): note: see reference to function template instantiation 'void math::Array<math::Vec3<float>>::setData(const T *&)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(163): note: while compiling class template member function 'T math::Array<T>::getElement(unsigned int,unsigned int) const'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\filtergamma.cpp(26): note: see reference to function template instantiation 'T math::Array<T>::getElement(unsigned int,unsigned int) const' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  FilterLinear.cpp
+c:\users\koulo\source\repos\assignment\assignment\image.h(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\filterlinear.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\filterlinear.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\koulo\source\repos\assignment\assignment\array.h(235): warning C4018: '<': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(231): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\koulo\source\repos\assignment\assignment\image.h(110): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  c:\users\koulo\source\repos\assignment\assignment\image.h(17): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\koulo\source\repos\assignment\assignment\array.h(199): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\koulo\source\repos\assignment\assignment\array.h(195): note: while compiling class template member function 'void math::Array<math::Vec3<float>>::setData(const T *&)'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(226): note: see reference to function template instantiation 'void math::Array<math::Vec3<float>>::setData(const T *&)' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\array.h(163): note: while compiling class template member function 'T math::Array<T>::getElement(unsigned int,unsigned int) const'
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  c:\users\koulo\source\repos\assignment\assignment\filterlinear.cpp(29): note: see reference to function template instantiation 'T math::Array<T>::getElement(unsigned int,unsigned int) const' being compiled
+          with
+          [
+              T=math::Vec3<float>
+          ]
+  Generating Code...
+  Assignment.vcxproj -> C:\Users\koulo\source\repos\Assignment\Debug\filterd.exe

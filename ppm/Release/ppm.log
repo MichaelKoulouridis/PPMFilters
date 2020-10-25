@@ -1,0 +1,5 @@
+﻿  ppm.cpp
+c:\users\koulo\source\repos\assignment\ppm\ppm.cpp(73): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+c:\users\koulo\source\repos\assignment\ppm\ppm.cpp(59): warning C4101: 'next_element': unreferenced local variable
+c:\users\koulo\source\repos\assignment\ppm\ppm.cpp(54): warning C4715: 'math::ReadPPM': not all control paths return a value
+  ppm.vcxproj -> C:\Users\koulo\source\repos\Assignment\ppm\ppm.lib
